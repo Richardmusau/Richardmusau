@@ -1,3 +1,6 @@
+ python diamond pattern
+rows = 8
+
 for i in range(1, rows):
 for j in range(1, rows - i):
 print(' ', end='')
